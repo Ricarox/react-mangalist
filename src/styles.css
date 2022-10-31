@@ -1,0 +1,7 @@
+body{
+    background-color: #c0c0c0;
+}
+#card:hover{
+    animation: tada;
+    animation-duration: 1s;
+}
