@@ -22,7 +22,7 @@ export const MangaList = () => {
   return (
 
     <>
-      <div className="row rows-cols-1 row-cols-md-4 g-4 ">
+      <div className="row row-cols-1 row-cols-sm-2 row-cols-md-4  g-4" id='list'>
 
         {
           mangas.map(manga => (
